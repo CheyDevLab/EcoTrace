@@ -1,0 +1,48 @@
+/* .tips {
+    padding: 20px;
+    line-height: 1.6;
+  }
+   */
+
+   .tips {
+    text-align: center;
+    justify-self: center;
+    max-width: 600px;
+    margin-top: 20px;
+  }
+  
+  .tips h1 {
+    color: #2c3e50;
+  }
+  
+  .tips p {
+    color: #34495e;
+    font-size: 18px;
+  }
+  
+  .tips ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .tips ul li {
+    background-color: #ecf0f1;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .tips button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .tips button:hover {
+    background-color: #2980b9;
+  }
+  
